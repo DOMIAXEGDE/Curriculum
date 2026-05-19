@@ -1,0 +1,27 @@
+Prompt 1
+
+Create a '.pdf' exercise, to read the curriculum, C source code.
+
+---
+
+Transform the exercise into a downloadable '.md' file.
+
+Prompt 2
+
+Create a '.pdf' exercise, to read the 'advanced curriculum', C source code, for comprehension of its purpose and possible use cases for API oriented software engineering.
+
+---
+
+Transform this '.pdf' exercise into '.md' form.
+
+Prompt 3
+
+Create a '.md' exercise, to read the 'enhanced curriculum', C source code, for comprehension of the program's capabilities for software engineering and engineering design.
+
+Prompt 4
+
+Create a '.md' Boolean truth table (Style) exercise, to determine which program of the three or two of the three (combined), or a combination of the three (all three programs combined for a hybrid toolchain), best serves as a generative tool/program for the purpose of manual/semi-automated 'Hardware Design Engineering'. Give a short interactive demo of 'Hardware Design Engineering' with python and KiCAD. Approached via three dimensional block design engineering with superposition and dimension matching approaches coupled with collision theory. All to build the following components ...
+
+wire . cable . connector . battery cell . supercapacitor . switch . relay . resistor . capacitor . inductor . transformer . fuse . circuit breaker
+
+Hence, the demo must showcase the philosophy of design patterns, and engineering (as required) for the design, manufacture and assembly of the components as detailed above.
